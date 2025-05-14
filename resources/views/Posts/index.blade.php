@@ -24,6 +24,7 @@
                 <th>Author</th>
                 <th>Category</th>
                 <th>Actions</th>
+                <th>Status</th>
             </tr>
         </thead>
         <tbody>
